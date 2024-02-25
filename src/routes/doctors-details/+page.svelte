@@ -65,7 +65,7 @@
       <dd class="text-gray-700 sm:col-span-2">
         <div class="avatar">
           <div class="w-24 rounded-full">
-            <img src="https://daisyui.com/images/stock/photo-1534528741775-53994a69daeb.jpg" />
+            <img src="https://img.freepik.com/free-photo/isolated-shotof-happy-successful-mature-senior-physician-wearing-medical-unifrom-stethoscope-having-cheerful-facial-expression-smiling-broadly-keeping-arms-crossed-chest_343059-2254.jpg?w=1060&t=st=1708898240~exp=1708898840~hmac=4d51ad25bb8b9ca0d10cf0d4fae1df67fe844a60f3515c762061722ee2a3a6e5" />
           </div>
         </div>
       </dd>
