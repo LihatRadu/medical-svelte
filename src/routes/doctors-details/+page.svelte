@@ -2,7 +2,7 @@
   <h1 class="text-5xl font-bold text-indigo-800">Doctor Details List</h1>
 </div>
 
-<div id="doctors" class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 justify-evenly grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4">
+<div id="doctors" class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 justify-between grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4">
 <div class="flow-root">
   <dl class="-my-3 divide-y divide-gray-100 text-sm">
     <div class="grid grid-cols-1 gap-1 py-3 sm:grid-cols-3 sm:gap-4">
