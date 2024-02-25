@@ -31,7 +31,7 @@
             <li><a href="/">Home</a></li>
             <li><a href="/about">About</a></li>
             <li><a href="#">Find Doctor</a></li>
-            <li><a href="#">Blog</a></li>
+            <li><a href="/blog">Blog</a></li>
             <li><a href="#">Pages</a>
               <ul class="p-5 dropdown-content shadow bg-base-100 menu z-[1] p-2 rounded-box w-52">
                 <li><a href="#">Appointment</a></li>
@@ -41,12 +41,12 @@
                 <li><a href="/doctors-details">Doctors Details</a></li>
               </ul>
             </li>
-            <li><a href="#">Contact</a></li>
+            <li><a href="/contact">Contact</a></li>
           </ul>
         </div>
   </div>
   <div class="navbar-center">
-    <a class="btn btn-ghost text-5xl font-bold">HealthProtect</a>
+    <h1 class="btn btn-ghost text-5xl font-bold">HealthProtect</h1>
   </div>
   <div class="navbar-end">
     <button class="btn btn-ghost btn-circle">
