@@ -38,7 +38,7 @@
                 <li><a href="#">Departaments</a></li>
                 <li><a href="/pricing">Pricing</a></li>
                 <li><a href="/doctors">Doctors</a></li>
-                <li><a href="#">Doctors Details</a></li>
+                <li><a href="/doctors-details">Doctors Details</a></li>
               </ul>
             </li>
             <li><a href="#">Contact</a></li>
